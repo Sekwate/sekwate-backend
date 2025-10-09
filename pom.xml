@@ -14,6 +14,9 @@
 	<name>backend</name>
 	<description>Sekwate ecommerce backend</description>
 	<url/>
+	<organization>
+		<name>Sekwate</name>
+	</organization>
 	<licenses>
 		<license/>
 	</licenses>
@@ -21,10 +24,10 @@
 		<developer/>
 	</developers>
 	<scm>
-		<connection/>
-		<developerConnection/>
+		<connection>scm:git:git@github.com:Sekwate/sekwate-backend.git</connection>
+		<developerConnection>scm:git:git@github.com:Sekwate/sekwate-backend.git</developerConnection>
 		<tag/>
-		<url/>
+		<url>https://github.com/Sekwate/sekwate-backend</url>
 	</scm>
 	<properties>
 		<java.version>17</java.version>
